@@ -2,15 +2,6 @@
 
 This repository contains code and resources for data processing using the popular Python libraries **pandas** and **NumPy**. It demonstrates a variety of data wrangling techniques such as cleaning, transformation, integration, and exploratory analysis, useful for preparing data for analysis and machine learning tasks.
 
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 This project provides examples and exercises for handling data, focusing on:
